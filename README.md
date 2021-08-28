@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VictorUmbelino
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me - https://www.linkedin.com/in/victorumbelino/ 
 - E-mail - victorumbelino@gmail.com
 
